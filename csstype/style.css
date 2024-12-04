@@ -1,0 +1,40 @@
+/* 
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+h2{
+    color: chartreuse;
+    text-align: center;
+}
+
+span{
+    color: black;
+    text-decoration: line-through;
+} */
+
+
+
+#first{
+    color: aquamarine;
+    text-align: center;
+}
+
+#second{
+    color: blueviolet;
+    text-align: center;
+}
+
+.text-danger{
+    color: red;
+}
+
+.text-sucess{
+    color: green;
+}
+
+.text-dec-underline{
+    text-decoration: underline;
+}

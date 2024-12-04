@@ -1,0 +1,19 @@
+/* "*"-global selector */
+
+
+*{
+    margin: 0;
+}
+
+.box{
+    
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    color: white;
+    margin-left: 200px;
+    margin-top: 200px;
+    padding-left: 20px;
+    padding-top: 20px;
+}

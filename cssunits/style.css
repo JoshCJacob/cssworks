@@ -1,0 +1,15 @@
+.box{
+    /* border-width: 2px;
+    border-color: green;
+    border-style: solid; */
+
+    border: 2px soild green;
+    
+    background-color: green;
+    
+    color: navy;
+    
+    width: 600px;
+    
+    height: 300px;
+}

@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+}
+
+.body{
+    height: 100vh; /*viewprt height*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+
+    width: 200px;
+    height: 200px;
+    background-color: #f3c5ff;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

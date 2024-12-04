@@ -1,0 +1,32 @@
+
+
+.border{
+
+    border: 2px solid black;
+
+}
+
+.parent{
+
+    background-color: green;
+
+    width: 75%;
+
+    height: 400px;
+
+}
+
+.child{
+
+    background-color: yellow;
+
+    width: 50%;
+
+    height: 200px;
+}
+
+
+/* two units */
+
+/* absolute - px 
+relative - % */
